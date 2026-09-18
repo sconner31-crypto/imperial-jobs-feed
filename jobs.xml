@@ -1,19 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>Imperial College London - Mathematics Jobs</title>
+<title>University of Birmingham - Law Jobs</title>
 <link>https://www.imperial.ac.uk/jobs/</link>
-<description>Current vacancies in the Department of Mathematics at Imperial College London</description>
+<description>Current vacancies in the Law School at Birmingham University</description>
 <language>en-gb</language>
-<pubDate>Fri, 18 Sep 2026 14:33:34 +0000</pubDate>
-<lastBuildDate>Fri, 18 Sep 2026 14:33:34 +0000</lastBuildDate>
+<pubDate>Fri, 18 Sep 2026 14:41:23 +0000</pubDate>
+<lastBuildDate>Fri, 18 Sep 2026 14:41:23 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
-<title>Research Associate in Organometallic Chemistry</title>
-<link>https://emea3.recruitmentplatform.com/apply-app/pages/application-form?jobId=PMMFK026203F3VBQB8NLOV4CQ-29299&amp;langCode=en_GB</link>
-<guid isPermaLink="false">NAT02291</guid>
-<description>Department of Chemistry - Closing date: 08 October 2026</description>
-<pubDate>Fri, 18 Sep 2026 14:33:34 +0000</pubDate>
+<title>Assistant Professor (Research and Education) (Private) - Birmingham Law School - 97666 - Grade 8</title>
+<link>https://edzz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_6001/jobs/preview/9962/</link>
+<guid isPermaLink="false">9962</guid>
+<description>University of Birmingham - Closing date: 05 October 2026</description>
+<pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+</item><item>
+<title>Assistant Professor (Research and Education) (General) - Birmingham Law School - 97664 - Grade 8</title>
+<link>https://edzz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_6001/jobs/preview/9945/</link>
+<guid isPermaLink="false">9945</guid>
+<description>University of Birmingham - Closing date: 05 October 2026</description>
+<pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
